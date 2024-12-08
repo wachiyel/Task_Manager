@@ -1,5 +1,5 @@
 # add_task.py
-tasks = []
+tasks = ["Add Task Example"] #modified to create conflict
 
 def add_task(task):
     tasks.append(task)
