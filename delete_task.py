@@ -1,5 +1,4 @@
 # delete_task.py
-tasks = ["Sample Task 1", "Sample Task 2", "Sample Task 3"]
 tasks = {"Delete Task Example"
 
 def delete_task(task):
